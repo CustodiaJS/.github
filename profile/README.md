@@ -18,20 +18,18 @@ We're building a community that values security, performance, and innovative sol
 
 ### 📖 Documentation
 
-You can find our documentation [here](#) (add the actual link). The docs will guide you through getting started with CustodiaJS, integrating it with your projects, and understanding best practices for secure JavaScript execution.
+For more information on the **CustodiaJS Network Platform (CJSNP)**, visit [CJSNP on GitHub](https://github.com/custodiaJs/cjs-network-platform).
+
+You can also check out our project website at [custodiajs.online](https://custodiajs.online).
+
+The docs will guide you through getting started with CustodiaJS, integrating it with your projects, and understanding best practices for secure JavaScript execution.
 
 ### 🌐 Join Our Community
 
 Join our discussions, share your experiences, and collaborate with other developers passionate about security and JavaScript. Whether you are contributing code, opening issues, or simply looking to learn more, you are welcome here!
 
-- **Discord**: [Join our Discord server](#) (add the link) for real-time discussions.
-- **GitHub Discussions**: Participate in ongoing threads and share your knowledge.
+- **Discord**: [Join our Discord server](https://discord.gg/j3nqdbMX) for real-time discussions.
+- **GitHub Discussions**: [Join the discussions here](https://github.com/orgs/custodiaJs/discussions).
 
 
-
-### ⚡ Get Started
-
-To get started with CustodiaJS, head over to our [Quick Start Guide](#) (add the actual link) and see how easily you can run JavaScript in a secure and isolated manner.
-
-We believe that secure code execution is the future, and we're excited to have you join us on this journey!
 
