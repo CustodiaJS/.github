@@ -6,7 +6,7 @@ Welcome to **CustodiaJS**! We're all about creating a secure and isolated enviro
 
 CustodiaJS provides a powerful solution for safely running JavaScript scripts by utilizing a combination of containerization and sandboxing. Our focus is on **secure, isolated JavaScript execution**, allowing developers to execute V8go instances in separate containers. This ensures a secure boundary, making CustodiaJS ideal for environments where safety and reliability are crucial.
 
-One of the key features of CustodiaJS is the use of the **CustodiaJS Network Platform (CJSNP)** to achieve complete network isolation. CustodiaJS utilizes separate environments to provide network isolation and ensure all necessary functions are securely handled by the CustodiaJS Network Platform (CJSNP), delivering the highest level of isolation and security across different platforms.
+One of the key features of CustodiaJS is the use of the **custodiaJS Network Platform (cJSNP)** to achieve complete network isolation. CustodiaJS utilizes separate environments to provide network isolation and ensure all necessary functions are securely handled by the CustodiaJS Network Platform (CJSNP), delivering the highest level of isolation and security across different platforms.
 
 ### 🤝 How to Get Involved
 
