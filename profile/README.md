@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome to **CustodiaJS**👋
 
-Welcome to **CustodiaJS**! We're all about creating a secure and isolated environment for executing JavaScript scripts by combining cutting-edge containerization and sandboxing techniques. Our solution leverages **V8go**, running instances in separate processes and containers to ensure strong isolation and robust security for JavaScript execution.
+We're all about creating a secure and isolated environment for executing JavaScript scripts by combining cutting-edge containerization and sandboxing techniques. Our solution leverages **V8go**, running instances in separate processes and containers to ensure strong isolation and robust security for JavaScript execution.
 
 ### 🔍 What is CustodiaJS?
 
