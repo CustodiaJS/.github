@@ -18,7 +18,7 @@ We're building a community that values security, performance, and innovative sol
 
 ### 📖 Documentation
 
-For more information on the **CustodiaJS Network Platform (CJSNP)**, visit [CJSNP on GitHub](https://github.com/custodiaJs/cjs-network-platform).
+For more information on the **custodiaJS Network Platform (cJSNP)**, visit [cJSNP on GitHub](https://github.com/custodiaJs/cjs-network-platform).
 
 You can also check out our project website at [custodiajs.online](https://custodiajs.online).
 
